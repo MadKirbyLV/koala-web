@@ -1,5 +1,7 @@
 # koala-web <br> <br>
 
+Project made using **VueJS**. <br>
+
 Link to koala-web site <br> <br>
 
 # https://koala-web-60796.web.app/
