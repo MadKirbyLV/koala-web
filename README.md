@@ -1,24 +1,7 @@
 # koala-web
 
-## Project setup
-```
-npm install
-```
+## Link to koala-web site
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## https://koala-web-60796.web.app/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](https://raw.githubusercontent.com/MadKirbyLV/koala-web/master/koala-screenshot.JPG)
